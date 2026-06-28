@@ -322,7 +322,7 @@ Real-Time Traffic Jam Detection
 
 ---
 
-# Technologies Used
+# Libraries Used
 
 * Python
 * Pandas
@@ -338,7 +338,7 @@ Real-Time Traffic Jam Detection
 2. Install the required Python libraries:
 
 ```bash
-pip install pandas numpy matplotlib scipy jupyter
+pip install pandas numpy matplotlib scipy 
 ```
 
 3. Open the notebooks in the following order:
