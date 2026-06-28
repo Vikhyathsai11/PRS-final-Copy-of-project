@@ -10,13 +10,13 @@
 
 **Member 1:** Vikhyath Gupta
 
-**Member 2:** _______________________________________
+**Member 2:** Nithin Reddy Baddam
 
 ---
 
 ## AI Usage Statement
 
-During the development of this project, Artificial Intelligence (AI), primarily **ChatGPT**, was used as a supporting tool for:
+During the development of this project, Artificial Intelligence (AI), primarily **ChatGPT**, was used along with Gemini and Github copilot as a supporting tool for:
 
 * Understanding project requirements and traffic analysis concepts.
 * Brainstorming possible approaches for data analysis.
@@ -37,7 +37,6 @@ In addition to AI, the following resources were consulted during the project:
 
 * Official Python Documentation
 * Pandas Documentation
-* SciPy Documentation
 * Stack Overflow
 * GeeksforGeeks
 * W3Schools
@@ -58,8 +57,9 @@ Where AI assistance directly influenced a specific implementation, the correspon
 or
 
 ```python
-# AI-assisted: Debugging suggestion from ChatGPT, reviewed and modified before use.
+# AI Usage: Debugging suggestion from ChatGPT, reviewed and modified before use.
 ```
+Also added AI prompt for few cells.
 
 ---
 
@@ -79,18 +79,3 @@ We declare that AI was used only for inspiration, syntax assistance, debugging s
 
 ---
 
-### Signatures
-
-**Member 1:** Vikhyath Gupta
-
-Signature: ________________________
-
-Date: ________________________
-
----
-
-**Member 2:** _______________________________________
-
-Signature: ________________________
-
-Date: ________________________
