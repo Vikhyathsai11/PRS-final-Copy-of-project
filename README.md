@@ -384,7 +384,7 @@ To demonstrate how the proposed approach can be extended, a simulated real-time 
 ---
 
 # Authors
- *Vikhyath Beecha, Nithin Reddy Baddam
+ Vikhyath Beecha, Nithin Reddy Baddam
 ---
 
 # AI Usage
