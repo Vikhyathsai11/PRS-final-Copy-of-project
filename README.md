@@ -386,7 +386,6 @@ To demonstrate how the proposed approach can be extended, a simulated real-time 
 # Authors
 
 **Member 1:** Vikhyath Beecha
-
 **Member 2:** Nithin Reddy Baddam
 ---
 
